@@ -47,9 +47,7 @@ The report contains multiple interactive dashboard views:
 
 ## 🔢 Sample DAX Measure
 
-```dax
 Average Rating = AVERAGE('OTT Data'[Rating])
-
 
 ## 🔥 Insights & Impact
 
