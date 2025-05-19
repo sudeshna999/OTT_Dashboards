@@ -49,6 +49,18 @@ The report contains multiple interactive dashboard views:
 
 Average Rating = AVERAGE('OTT Data'[Rating])
 
+## Overview of Dashboards
+Here’s a quick preview of the main dashboard:
+
+![image](https://github.com/user-attachments/assets/a045eea6-6595-4103-baa1-bd12724c9a63)
+
+![image](https://github.com/user-attachments/assets/d7ecaa55-424b-4d9b-8765-804db5093481)
+
+![image](https://github.com/user-attachments/assets/f65c2a0e-1313-46ac-afc7-1615d5a5042e)
+
+
+
+
 ## 🔥 Insights & Impact
 
 - 📈 Netflix has the highest volume of content, while Amazon Prime shows a higher average rating.
